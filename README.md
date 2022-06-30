@@ -1,1 +1,1 @@
-# DBMS-PROJECT-Railway-management-system-
+The objective of this case study is to represent an idea on the management of the railways reservation system. This project is helpful in managing the data for a large number of users. Input for this case study is taken from its informal specification to a relational schema using entity-relationship modeling and its translation to relational model, to database schema, to implementation of the database, to interactive SQL querying of the installed database (SQL/Oracle).
